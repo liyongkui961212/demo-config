@@ -1,6 +1,9 @@
 server:
   port: 8081
 
+test:
+  port: 8080
+
 spring:
   application:
     name: payment-service
